@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yamil2717
 - 👀 I'm interested in continuing to learn everything related to JS.
-- 🌱 I'm learning React Native and unit testing for ReactJS.
+- 🌱 I'm learning unit testing JS.
 - 💞️ I'm looking to collaborate on projects that will set me new challenges.
 - 📫 Mail for contact: Yamilescorcia31@gmail.com
 
